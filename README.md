@@ -1,4 +1,4 @@
-# IM-EG2
+# IM-EG1
 ========
 
 The EG-1 is a basic ADSR module utilizing the AS3310 chip. All portions of the envelope are portentiometer controlled.
